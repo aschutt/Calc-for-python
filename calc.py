@@ -33,6 +33,12 @@ def mult(a, b):
 def div(a, b):
     return a / b
 
+# Modulus division function
+# a -- dividend
+# b -- divisor
+def div(a, b):
+	return a % b
+
 
 # -------------------------------------------------------- #
 
